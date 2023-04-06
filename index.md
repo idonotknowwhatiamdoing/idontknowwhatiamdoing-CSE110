@@ -34,11 +34,10 @@ while (something){
 ## Me as a person:
 
 * I CAD stuff for fun
-
 ![cad](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51LZRqadhtS._AC_UF1000,1000_QL80_.jpg)
-
+  * I made a 3d printed cat shaker in high school that has since been lost to the sands of time (my closet)
 * I draw sometimes
-* 
+* I am a CE major and cogsci minor
 * Here is my bucket list for this quarter:
 - [ ] survive
 - [ ] sleep at least 8 hours every night
